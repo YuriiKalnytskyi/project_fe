@@ -1,0 +1,56 @@
+@media (min-width: 680px ), screen and (max-width:1000px) {
+    .login_container{
+
+    }
+}
+.login_container{
+    background: rgba(0, 0, 0, 0.78);
+    color: white;
+    border-radius: 15px;
+    width: 400px;
+    height: 260px;
+}
+.login_content{
+}
+.input_container{
+    height: 55px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+.labelClass{
+    width: 100%;
+}
+.inputClass{
+    width: 350px;
+    height: 30px;
+}
+.position{
+    position: relative;
+
+}
+.icon{
+    position: absolute;
+    top: 5px;
+    right: 45px;
+    /*background: black;*/
+}
+.card-title{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.labelClass{
+    margin-left: 10px;
+}
+.inputClass{
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.card-action{
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+}
